@@ -1,5 +1,5 @@
 # Discord-Bot-Template
-Un projet bot Discord déjà prêt, plus qu'à coder vos commandes
+Un projet bot Discord en discord.js v12 déjà prêt, avec handler. Plus qu'à coder vos commandes !
 
 
 # Comment Débuter ?
