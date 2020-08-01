@@ -1,0 +1,26 @@
+{
+  "name": "Bot Discord",
+  "version": "1.0.0",
+  "description": "Un template de bot Discord en discord.js 12",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "enmap": "^5.4.0",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/NH-Jean/Discord-Bot-Template"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "Template",
+    "javascript"
+  ]
+}
