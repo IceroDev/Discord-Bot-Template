@@ -7,7 +7,7 @@ Un projet bot Discord en discord.js v12 déjà prêt, avec handler. Plus qu'à c
 Le fichier index.js est complet, il à pour but  de lire les commandes qui seront crées dans le dossier ./commands.
 Les commandes seront lues dans le dossier commandes uniquement. Le nom de la commande est le nom du fichier de celle ci.
 
-Par exemple le fichier ping.js sera sur Discord la commande <prefix>ping (<prefix> étant le préfixe défini dans le fichier config.json)
+Par exemple le fichier ping.js sera sur Discord la commande _prefix_ping (_prefix_ étant le préfixe défini dans le fichier config.json)
 
 
 # Comment créer mon bot Discord ?
