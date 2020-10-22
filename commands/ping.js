@@ -5,7 +5,7 @@ exports.run = (client, message, args) => {
       .setTitle("Bonjour "+message.author.username)
       .setDescription("Mon ping est de : "+client.ws.ping+"ms")
       .setColor("RANDOM")
-      .setFooter(footer);
+      .setFooter("votre footer");
     message.channel.send(embed);
   
 };
