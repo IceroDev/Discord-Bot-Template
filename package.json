@@ -1,5 +1,5 @@
 {
-  "name": "Bot Discord",
+  "name": "BotDiscord",
   "version": "1.0.0",
   "description": "Un template de bot Discord en discord.js 12",
   "main": "index.js",
