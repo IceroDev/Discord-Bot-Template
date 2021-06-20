@@ -7,9 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "enmap": "^5.8.4",
-    "fs": "^0.0.2"
+    "discord.js": "^12.5.3"
   },
   "engines": {
     "node": "14.x"
